@@ -1,0 +1,67 @@
+C:\Users\Admin\source\repos\Client\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Admin\source\repos\Client\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Admin\source\repos\Client\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Admin\source\repos\Client\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\source\repos\Client\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Client\Client\obj\Debug\net8.0-windows\ref\Client.dll
+E:\ltm\Client\Client\bin\Debug\net8.0-windows\Client.exe
+E:\ltm\Client\Client\bin\Debug\net8.0-windows\Client.deps.json
+E:\ltm\Client\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+E:\ltm\Client\Client\bin\Debug\net8.0-windows\Client.dll
+E:\ltm\Client\Client\bin\Debug\net8.0-windows\Client.pdb
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.Login.resources
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.dll
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\refint\Client.dll
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.pdb
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+E:\ltm\Client\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.Login.resources
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Admin\Downloads\môn cha quân\Client\Client\obj\Debug\net8.0-windows\ref\Client.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.Form1.resources
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.Login.resources
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Client\Client\obj\Debug\net8.0-windows\ref\Client.dll

@@ -1,0 +1,64 @@
+C:\Users\Admin\source\repos\Server\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Admin\source\repos\Server\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Admin\source\repos\Server\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Admin\source\repos\Server\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\source\repos\Server\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Server\Server\obj\Debug\net8.0-windows\ref\Server.dll
+E:\ltm\Server\Server\bin\Debug\net8.0-windows\Server.exe
+E:\ltm\Server\Server\bin\Debug\net8.0-windows\Server.deps.json
+E:\ltm\Server\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+E:\ltm\Server\Server\bin\Debug\net8.0-windows\Server.dll
+E:\ltm\Server\Server\bin\Debug\net8.0-windows\Server.pdb
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.dll
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\refint\Server.dll
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.pdb
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+E:\ltm\Server\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Admin\Downloads\môn cha quân\Server\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\Admin\Downloads\LTM-N03--UngDungChiaSeFileQuaLAN-master\Server\Server\obj\Debug\net8.0-windows\ref\Server.dll
